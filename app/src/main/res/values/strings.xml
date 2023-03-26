@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="name_title">Name</string>
+    <string name="phone_title">Phone</string>
+    <string name="status_title">Status</string>
+    <string name="name_hint">enter name</string>
+    <string name="phone_hint">enter number</string>
+    <string name="status_hint">enter status</string>
+
+
+</resources>
